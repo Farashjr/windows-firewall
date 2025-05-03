@@ -1,0 +1,9 @@
+{
+    "blocked_ips": [
+        "192.168.1.100"
+    ],
+    "blocked_ports": [23],
+    "blocked_protocols": [
+        "TCP"
+]
+}
